@@ -1,10 +1,11 @@
 ## Olá! Eu sou Ariele silva
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielesilvaa_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielesilvaa_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/arielesilvaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielesilvaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielesilvaa&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 
 <div style="display: inline_block"><br>
