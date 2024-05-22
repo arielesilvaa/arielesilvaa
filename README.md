@@ -1,5 +1,29 @@
 ## Olá! Eu sou Ariele silva
 
+👩‍💻 Desenvolvedora em Formação
+Olá! Sou uma desenvolvedora em formação apaixonada por tecnologia e inovação. Estou constantemente buscando aprender e aprimorar minhas habilidades em desenvolvimento de software. Aqui você encontrará alguns dos meus projetos, onde aplico o que estou aprendendo e exploro novas ideias.
+
+🛠️ Habilidades
+Linguagens de Programação: Python, JavaScript, HTML, CSS
+Frameworks e Bibliotecas: React, Node.js
+Ferramentas e Tecnologias: Git, GitHub, VS Code
+Metodologias: Desenvolvimento Ágil
+
+🌱 Em Aprendizado
+Aprimorando habilidades em React e Node.js
+Explorando Desenvolvimento Mobile com React Native
+Estudando DevOps e práticas de CI/CD
+
+📚 Projetos
+
+🎯 Objetivos
+Contribuir para projetos de código aberto
+Colaborar com outros desenvolvedores em projetos inovadores
+Continuar crescendo e me desafiando no mundo do desenvolvimento de software
+📫 Contato
+Email: arielle.sil11@gmail.com
+LinkedIn: www.linkedin.com/in/ariele-silvaaa
+
 
 <div>
   <a href="https://github.com/arielesilvaa">
