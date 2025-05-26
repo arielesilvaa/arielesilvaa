@@ -1,7 +1,7 @@
 <h2 align="center"> Desenvolvedora Front-end! Seja Bem-Vindo(a) ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Ariele!;Sou+Desenvolvedora+Front-End!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Ariele!;Sou+Desenvolvedora+Front-End!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
 </p>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
 
