@@ -1,7 +1,7 @@
-<h2 align="center"> Desenvolvedora Front-end! Seja Bem-Vindo(a) ✨</h2>
+<h2 align="center"> Engenheira Fullstack! Seja Bem-Vindo(a) ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Ariele!;Sou+Desenvolvedora+Front-End!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Ariele!;Sou+Desenvolvedora+Fullstack!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
 </p>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
 
@@ -33,10 +33,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="aastro logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
+  <img width="12" />
 
 
 </div>
@@ -68,8 +76,9 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/arielesilvaa/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=arielesilvaa&color=blue" alt="Contador de visitas" />
 </div>
+
 
 ###
 
