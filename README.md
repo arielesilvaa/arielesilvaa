@@ -1,85 +1,146 @@
-<h2 align="center"> Engenheira Fullstack! Seja Bem-Vindo(a) ✨</h2>
+<h2 align="center">✨ Engenheira de Software Fullstack ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Ariele!;Sou+Desenvolvedora+Fullstack!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Oi%2C+meu+nome+é+Ariele!+%F0%9F%91%8B;Sou+Engenheira+de+Software!+%F0%9F%92%BB;Fullstack+%7C+Java+%7C+Spring+Boot;React+%7C+Angular+%7C+TypeScript;AWS+%7C+Docker+%7C+Cloud+%E2%98%81%EF%B8%8F;Bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8" alt="Typing SVG" />
 </p>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=header" />
+</p>
+
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" />
+
+### 🌸 Oi, eu sou a Ariele!
+
+💻 Engenheira de Software Fullstack
+☕ Apaixonada por tecnologia e desenvolvimento
+🚀 Construindo projetos para transformar ideias em código
+🌱 Sempre aprendendo algo novo
+
+<br>
+
+> ✨ *“Um commit de cada vez, sempre evoluindo.”*
+
+<br clear="both">
+
+---
+
+### 💻 Minha Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielesilvaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arielesilvaa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+#### 🎨 Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
+
+<br><br>
+
+#### ☕ Backend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+
+<br><br>
+
+#### ☁️ Cloud & DevOps
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+
+<br><br>
+
+#### 🗄️ Database
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif"  />
+### 🌱 Atualmente estudando...
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="aastro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-
+💜 **Java + Spring Boot**
+🏗️ **Arquitetura de Software**
+🧪 **Testes Automatizados**
+☁️ **AWS & Cloud**
+🐳 **Docker & Containers**
+⚡ **Angular & Frontend**
 
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://discord.com/channels/1247591838345334835/1247655041637290084" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ariele-silvaaa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5511961336586" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+### 🚀 Alguns projetos
+
+<div align="center">
+
+|       💜 Projeto      |    🛠️ Tecnologias   |
+| :-------------------: | :------------------: |
+|   🏨 Hotel API REST   |  Java • Spring Boot  |
+|     💳 PayRest API    |  Java • Spring Boot  |
+|     🛒 E-commerce     | Next.js • TypeScript |
+| ⚙️ Projetos Fullstack |  React • Java • AWS  |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arielesilvaa&theme=dracula&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 💌 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ariele-silvaaa/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/arielesilvaa" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-###
+<br>
 
-<br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arielesilvaa/arielesilvaa/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/arielesilvaa/arielesilvaa/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arielesilvaa&color=FF69B4&style=flat-square" alt="Contador de visitas" />
+</p>
 
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arielesilvaa&color=blue" alt="Contador de visitas" />
-</div>
-
-
-###
-
-
+<p align="center">
+  🌸 Obrigada por visitar meu perfil! 🌸
+</p>
